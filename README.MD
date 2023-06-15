@@ -11,7 +11,7 @@ What the template uses
 - Jest
 - Eslint
 
-# Running the App
+## Running the App
 `npm run dev` to run the vite project
 
 `npm run test` to run vitest.
